@@ -1,4 +1,4 @@
-# Nmap 7.95 scan initiated Mon Jun 23 12:18:57 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.153.0/24
+# Nmap 7.95 scan initiated Mon sep 22 7:2:56 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.153.0/24
 Nmap scan report for 192.168.153.1
 Host is up (0.00094s latency).
 Not shown: 997 filtered tcp ports (no-response)
@@ -26,4 +26,4 @@ Host is up (0.0000060s latency).
 All 1000 scanned ports on 192.168.153.129 are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 
-# Nmap done at Mon Jun 23 12:19:05 2025 -- 256 IP addresses (4 hosts up) scanned in 8.55 seconds
+# Nmap done at Mon sep 22 7:5:05 2025 -- 256 IP addresses (4 hosts up) scanned in 8.55 seconds
